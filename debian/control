@@ -1,0 +1,17 @@
+Source: dejavu-fonts
+Section: gui
+Priority: optional
+Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
+Homepage: http://dejavu.sourceforge.net/
+Standards-Version: 3.7.3
+Build-Depends: debhelper (>= 5)
+XCS-Cross-Host-Build-Depends: debhelper (>= 5.0.22)
+XS-Vcs-Git: http://git.openinkpot.org/dejavu-fonts.git
+XS-Vcs-Browser: http://git.openinkpot.org/dejavu-fonts.git
+
+Package: dejavu-fonts
+Architecture: all
+Description: Font family based on the Vera with wider range of characters
+ The DejaVu fonts are a font family based on the Bitstream Vera Fonts. Its
+ purpose is to provide a wider range of characters while maintaining the
+ original look and feel.
