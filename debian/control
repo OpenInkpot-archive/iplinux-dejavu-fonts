@@ -3,11 +3,11 @@ Section: gui
 Priority: optional
 Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
 Homepage: http://dejavu.sourceforge.net/
-Standards-Version: 3.7.3
-Build-Depends: debhelper (>= 5)
-XCS-Cross-Host-Build-Depends: debhelper (>= 5.0.22)
-XS-Vcs-Git: http://git.openinkpot.org/dejavu-fonts.git
-XS-Vcs-Browser: http://git.openinkpot.org/dejavu-fonts.git
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 7)
+XCS-Cross-Host-Build-Depends: debhelper (>= 7)
+XS-Vcs-Git: http://git.iplinux.org/dejavu-fonts.git
+XS-Vcs-Browser: http://git.iplinux.org/dejavu-fonts.git
 
 Package: dejavu-fonts
 Architecture: all
