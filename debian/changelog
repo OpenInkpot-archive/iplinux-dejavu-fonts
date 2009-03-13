@@ -1,3 +1,10 @@
+dejavu-fonts (2.29-1) asimov; urgency=low
+
+  * New Upstream Version
+  * First build for IPlinux.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sat, 14 Mar 2009 04:16:05 +0600
+
 dejavu-fonts (2.26-1.oi1) asimov; urgency=low
   
   * Initial packaging.
